@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · rKLoYUYF -->
-## Notification 1/2
-Round: Round 1
-To: sarahlnoble@yahoo.com, tpierce_24@hotmail.com
-At: 2026-09-16 14:04:26
-Id: rKLoYUYF
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: lkeilson4i@mac.com, richmyszka@aol.com
+At: 2026-09-16 14:04:35
+Id: 55kuDI3Z
